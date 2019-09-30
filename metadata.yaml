@@ -1,6 +1,9 @@
 _repo: Star-land-Being-Talks-With-Young-People-About-the-Wonders-of-the-Heavens_60318
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Starland
+covers:
+- cover_type: archival
+  image_path: 60318-h/images/cover.jpg
 creator:
   author:
     agent_name: Ball, Robert S. (Robert Stawell)
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/866
     wikipedia: http://en.wikipedia.org/wiki/Robert_Stawell_Ball
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60318#Star-land-Being-Talks-With-Young-People-About-the-Wonders-of-the-Heavens
 gutenberg_issued: '2019-09-18'
 gutenberg_type: Text
 identifiers:
